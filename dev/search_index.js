@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"CurrentModule = ForwardDiffOverLogarithmicNumbers","category":"page"},{"location":"#ForwardDiffOverLogarithmicNumbers","page":"Home","title":"ForwardDiffOverLogarithmicNumbers","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"Documentation for ForwardDiffOverLogarithmicNumbers.","category":"page"},{"location":"","page":"Home","title":"Home","text":"","category":"page"},{"location":"","page":"Home","title":"Home","text":"Modules = [ForwardDiffOverLogarithmicNumbers]","category":"page"}]
+}
